@@ -67,12 +67,11 @@ body{
      padding: 33px;
 }
 .box1 img{
-    width:500px;
+    width:800px;
 }  
 .box1 .texto{
     align-content: space-between;
     margin: 20px 20px 20px 20px;
-
 }
 .box2{
      width: 1278px;  
@@ -80,6 +79,10 @@ body{
      margin:  32px auto 64px;
      justify-content: space-around;
      padding: 33px;
+}
+.box2 img{
+    width: 800px;
+
 }
 .box2 .texto{
     width: 500px;
@@ -89,14 +92,14 @@ body{
 .box3{
     width: 1278px;  
     display: flex;
-    margin: auto;
+    margin: 0 auto;
     justify-content: space-around;
     border-radius: 15px;
     background: linear-gradient(89.95deg, #91282F 0.44%, #330002 98.92%);
     padding: 33px;
 }
 .box3 img{
-    width: 500px;
+    width: 700px;
 }
 
 .box3 .texto{
